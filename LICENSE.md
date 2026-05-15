@@ -1,4 +1,4 @@
-# 
+# smart pump.fun sniper bot | snipe-list-management + slippage-control offers the most advanced pump.fun sniper bot, with snipe-list-management and slippage-control. Ideal for
 
 
 
